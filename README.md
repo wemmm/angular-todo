@@ -20,6 +20,7 @@ Nothing fancy, just learning some Angular.
 
 * Sails
 * Angular.js
+* Bower
 
 # TODOs:
 
