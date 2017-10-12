@@ -23,6 +23,4 @@ Nothing fancy, just learning some Angular.
 
 # TODOs:
 
-* Make the app
-
-ha ha ha 
+* Make the app (ha ha ha)
